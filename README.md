@@ -1,5 +1,5 @@
 # John Dexter A. Urbano  
-**BS Computer Science Student | Learning Python (Django) & React**  
+**Computer Science Student | Python (Django) & React Developer**  
 
 ## 🌟 About Me  
 Hello! I'm John Dexter A. Urbano, a Computer Science student passionate about web development and software engineering. Currently diving deep into Python (Django) for backend development and React for building dynamic user interfaces. My goal is to create efficient and scalable web applications while continuously improving my skills.
