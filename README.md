@@ -9,7 +9,7 @@ Hello! I'm John Dexter A. Urbano, a Computer Science student passionate about we
 - JavaScript, React  
 - HTML, CSS, Tailwind  
 - Git, GitHub  
-- MySQL  
+  
 
 ## 💬 Let's Connect  
 Feel free to check out my projects, leave feedback, or collaborate on interesting ideas. Let's learn and grow together!
